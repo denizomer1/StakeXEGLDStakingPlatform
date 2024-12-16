@@ -20,7 +20,7 @@ StakeX is a decentralized staking platform built on the MultiversX blockchain, a
 ### Smart Contract
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stakex.git
+git clone https://github.com/denizomer1/StakeXEGLDStakingPlatform.git
 
 # Navigate to contract directory
 cd stakex/contract
